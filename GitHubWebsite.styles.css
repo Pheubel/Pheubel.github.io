@@ -9,6 +9,17 @@ main[b-2qpaxlxk74] {
     flex: 1;
 }
 
+.main > footer[b-2qpaxlxk74] {
+    height: 3rem;
+    max-height: 3rem;
+}
+
+.main > .content[b-2qpaxlxk74] {
+    height: calc(100vh - 6.5rem);
+    max-height: calc(100vh - 6.5rem);
+    overflow-y: auto;
+}
+
 .sidebar[b-2qpaxlxk74] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
