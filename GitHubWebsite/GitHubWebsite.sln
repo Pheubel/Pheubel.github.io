@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubWebsite", "GitHubWebsite\GitHubWebsite.csproj", "{C2C9131D-AA75-41BE-B912-A3A74C77E16E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHubWebsite", "GitHubWebsite\GitHubWebsite.csproj", "{C2C9131D-AA75-41BE-B912-A3A74C77E16E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
